@@ -2,7 +2,7 @@ Dados do aluno
 
 -Primeiro Nome: Estácio
 -Profissão: Engenheiro de Software
--Cidade: Caxias do Sul
+-Cidade: Caxias do Sul - Rio grande do sul
 -O que faz nas horas vagas: Nas horas vagas eu gosto de estudar sobre programação em geral, ir para academia e sair com a minha namorada ou com meus amigos.
 -Feedback sobre o curso Qualidade de Software: Tenho gostado bastante deste curso de qualidade, estou aprendendo muita coisa que pra mim é novidade.
 -Feedback sobre a plataforma de estudo da EBAC: Achei muito legal a forma que os conteúdos são apresentados para o aluno, estou achando a forma de ensino bastante imersiva e tem me prendido bastante, nota mil.
